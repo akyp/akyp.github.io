@@ -1,5 +1,5 @@
 # Welcome to ArcherKeyboard
-<img src="https://github.com/user-attachments/assets/aca50876-bc95-40af-9934-d56ca10f166c" width="75%"></img> 
+<a href="https://github.com/user-attachments/assets/aca50876-bc95-40af-9934-d56ca10f166c" target="_new"><img src="https://github.com/user-attachments/assets/aca50876-bc95-40af-9934-d56ca10f166c" width="75%" /></a>
 
 Hello. I am akyp, a mechanical keyboard enthusiast since early 2020. After accumulating a number of keyboards I began exploring the possibility of designing my own keyboards. Between work and preparing migration to another country, I managed to teach myself designing PCBs and cases. Thus in 2022, my first project -- the [O17](./o17), was born. Shortly afterwards it was followed by the [Ashley](./ashley) and its [Autumn Edition](./ashley-autumn-edition). Our latest project being the [Desire65](./desire65).
 
