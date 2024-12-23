@@ -1,4 +1,4 @@
-<p style="text-align: right"><b>Home&nbsp;&nbsp;&nbsp;<a href="./o17">O17</a>&nbsp;&nbsp;&nbsp;<a href="./ashley">Ashley</a>&nbsp;&nbsp;&nbsp;<a href="./ashley-autumn-edition">Ashley - Autumn Edition</a>&nbsp;&nbsp;&nbsp;<a href="./desire65">Desire65</a></b></p>
+<p style="text-align: right"><b>Home</b>&nbsp;&nbsp;&nbsp;<a href="./o17"><b>O17</b></a>&nbsp;&nbsp;&nbsp;<a href="./ashley">Ashley</a>&nbsp;&nbsp;&nbsp;<a href="./ashley-autumn-edition">Ashley - Autumn Edition</a>&nbsp;&nbsp;&nbsp;<a href="./desire65">Desire65</a></p>
 
 # Welcome to ArcherKeyboard
 <a href="https://github.com/user-attachments/assets/aca50876-bc95-40af-9934-d56ca10f166c" target="_new"><img src="https://github.com/user-attachments/assets/aca50876-bc95-40af-9934-d56ca10f166c" width="75%" /></a>
