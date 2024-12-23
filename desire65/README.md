@@ -38,7 +38,7 @@ The intricate internal shape of the polycarbonate bottom is all done to reduce t
 - PCB: [Desire65 open-source hotswap PCB](https://github.com/akyp/desire65-pcb/tree/main) with QMK/VIA/Vial firmware support and RGB underglow
 - Brass external weight
 - USB-C [Unified Daughterboard](https://unified-daughterboard.github.io/#/) (C-series)
-- Weight: 1.29kb (with switches, brass plate and keycaps)
+- Weight: 1.29kg (with switches, brass plate and keycaps)
 
 ![supported-layout](https://github.com/user-attachments/assets/a0d9a8dc-6eca-434d-82f6-aa08e6a49656)
 
