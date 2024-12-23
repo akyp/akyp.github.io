@@ -1,3 +1,5 @@
+<p style="text-align: right; font-weight: bold"><a href="../">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;O17&nbsp;&nbsp;&nbsp;&nbsp;<a href="../ashley">Ashley</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="../ashley-autumn-edition">Ashley - Autumn Edition</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="../desire65">Desire65</a></p>
+
 # O17
 ## O-ring gasket, 17 keys numpad
 <a target="_new" href="https://github.com/user-attachments/assets/44af965d-7b22-4d51-b596-3e9f13696b47"><img src="https://github.com/user-attachments/assets/44af965d-7b22-4d51-b596-3e9f13696b47" width="23%" /></a> 
