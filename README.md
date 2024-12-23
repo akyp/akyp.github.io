@@ -7,7 +7,7 @@ Hello. I am akyp, a mechanical keyboard enthusiast since early 2020. After accum
 
 While the thought of selling my own designs is alluring, I just don't possess the soft skills to do that.  With limited time, I would rather be making new designs than handling logistics.  This is why I have created this website to document my work rather than selling it.
 
-If you are a vendor and is interested in selling my designs, you are more than welcome to start a conversation by emailing me at support@archerkeyboard.com.
+If you are a vendor and is interested in selling my designs, you are more than welcome to start a conversation by emailing me at [support@archerkeyboard.com](mailto:support@archerkeyboard.com).
 
 Please follow our Instagram: [https://www.instagram.com/archerkeyboard/](https://www.instagram.com/archerkeyboard/)
 
