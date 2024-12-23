@@ -9,7 +9,7 @@ While the thought of selling my own designs is alluring, I just don't possess th
 
 If you are a vendor and is interested in selling my designs, you are more than welcome to start a conversation by emailing me at support@archerkeyboard.com.
 
-Please follow our Instagram: https://www.instagram.com/archerkeyboard/
+Please follow our Instagram: [https://www.instagram.com/archerkeyboard/](https://www.instagram.com/archerkeyboard/)
 
 This GitHub repository was created to replicate the contents at https://archerkeyboard.com, which I own and was hosted somewhere, until I got tired of renewing the SSL certificate every year and gave up for good.
 
