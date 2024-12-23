@@ -26,7 +26,7 @@ Below and behind is an external brass weight which houses the USB-C daughterboar
 
 One may notice there are no logos or text depicting the identity of the keyboard – this is intentionally done as to draw curiosity and intrigue from the observer.
 
-### InternalS – Intricate with a simple purpose
+### Internals – Intricate with a simple purpose
 The mounting system is of the tried and true one from [Ashley](../ashley) with some adjustments – the number of gasket strips has been reduced from 8 to 6, reflecting the more compact footprint, the gaskets are also slightly compressed to improve acoustics and reduce z-height, while still retaining an ample amount of travel – a worthwhile compromise.
 
 The intricate internal shape of the polycarbonate bottom is all done to reduce the z-height to the bare minimum while allowing the mounting system to fully work. The use of plate-mounted stabilizers (as opposed to commonly-used PCB-mounted ones) also contribute to lowered z-height.
