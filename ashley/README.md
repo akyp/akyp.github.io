@@ -4,6 +4,7 @@
 ## Gasket-mounted ergo 60%
 
 Ashley is our take on the ergo 60% layout, pioneered by Lyn’s EM7 and made famous by TGR Alice. Strong emphasis was put on symmetry and aesthetics, as well as contemporary internals. The result is a keyboard that is both a joy to look at and to type on.
+
 <a target="_new" href="https://github.com/user-attachments/assets/77a538eb-a0b2-4bcb-8882-c65e66a7da60"><img src="https://github.com/user-attachments/assets/77a538eb-a0b2-4bcb-8882-c65e66a7da60" width="23%" /></a> 
 <a target="_new" href="https://github.com/user-attachments/assets/712d9a3b-f95d-4fa7-adc3-628a479dac3f"><img src="https://github.com/user-attachments/assets/712d9a3b-f95d-4fa7-adc3-628a479dac3f" width="23%" /></a> 
 <a target="_new" href="https://github.com/user-attachments/assets/46a661b1-e176-4bea-8e82-18837deed62c"><img src="https://github.com/user-attachments/assets/46a661b1-e176-4bea-8e82-18837deed62c" width="23%" /></a> 
